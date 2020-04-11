@@ -697,6 +697,9 @@ didalam looping, proses akan mengirim setiap pesan ke server proses dimulai dari
 
 Berikut gambar ketika programnya dijalankan:
 
+![soal2a](https://user-images.githubusercontent.com/58405725/79046400-f2b33680-7c3a-11ea-85ba-53db4940acd4.png)
+![soal2b](https://user-images.githubusercontent.com/58405725/79046402-f646bd80-7c3a-11ea-9daa-4716dca9b834.png)
+
 ## 3. Soal 3
 
 ```
@@ -935,6 +938,9 @@ setelah dibuat setiap file disalin ke dalam folder berdasarkan biner dan file as
 tetapi dalam pengerjaan saya ada kekurangan dimana file eksekutornya ikut terpindah apabila dijalankan. sehingga program terhenti sebab file eksekutor sudah tidak ada.
 
 Berikut gambar ketika program dijalankan:
+
+![soal3a](https://user-images.githubusercontent.com/58405725/79046406-f8a91780-7c3a-11ea-948f-41a64da38a7e.png)
+![soal3b](https://user-images.githubusercontent.com/58405725/79046407-fa72db00-7c3a-11ea-8d34-ffe30769f4e0.png)
 
 ## 4. Soal 4
 ```
@@ -1328,3 +1334,5 @@ Dalam script kedua membuat sebuah program untuk menjumlahkan setiap angka di dal
 Untuk script ketiga tidak ada hubungannya dengan program sebelumnya, yaitu membuat pipe. Saya menggunakan fork agar program dapat melakukan pipe yang kemudian dibantu oleh fungsi dup untuk hasilnya.
 
 Berikut gambar ketika program dijalankan:
+
+![soal4](https://user-images.githubusercontent.com/58405725/79046414-0363ac80-7c3b-11ea-9307-f83e066c2dbc.png)
